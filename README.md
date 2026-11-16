@@ -74,8 +74,8 @@ React와 TypeScript를 중심으로 웹 서비스를 개발해 왔으며,<br>
       </ul>
       <p>
         <a href="https://dolog.kr"><strong>Live Site</strong></a> ·
-        <a href="https://github.com/ohchanju3/DoLog-FE">Frontend</a> ·
-        <a href="https://github.com/ohchanju3/DoLog-BE">Backend</a>
+        <a href="https://github.com/ckswn3/DoLog-FE">Frontend</a> ·
+        <a href="https://github.com/ckswn3/DoLog-BE">Backend</a>
       </p>
     </td>
     <td width="48%" valign="middle">
@@ -112,13 +112,13 @@ React와 TypeScript를 중심으로 웹 서비스를 개발해 왔으며,<br>
         <li>FastAPI 추론 서버 구축과 AWS 배포</li>
       </ul>
       <p>
-        <a href="https://github.com/ohchanju3/Dasiro-Frontend">
+        <a href="https://github.com/ckswn3/Dasiro-Frontend">
           <strong>Repository</strong>
         </a>
       </p>
     </td>
     <td width="48%" valign="middle">
-      <a href="https://github.com/ohchanju3/Dasiro-Frontend">
+      <a href="https://github.com/ckswn3/Dasiro-Frontend">
         <img
           src="https://github.com/user-attachments/assets/802d3cbb-b234-4bc1-93ca-6787a4ba5d1a"
           alt="다시로 AI 싱크홀 안전지도"
@@ -154,13 +154,13 @@ React와 TypeScript를 중심으로 웹 서비스를 개발해 왔으며,<br>
         <strong>Tech for All 대상 · 종합설계 최우수상 · 오픈소스프로젝트 우수상</strong>
       </p>
       <p>
-        <a href="https://github.com/ohchanju3/2025-2-SCS4031-DevCode-S1">
+        <a href="https://github.com/ckswn3/2025-2-SCS4031-DevCode-S1">
           <strong>Repository</strong>
         </a>
       </p>
     </td>
     <td width="48%" valign="middle">
-      <a href="https://github.com/ohchanju3/2025-2-SCS4031-DevCode-S1">
+      <a href="https://github.com/ckswn3/2025-2-SCS4031-DevCode-S1">
         <img
           src="https://github.com/user-attachments/assets/13d746ba-39bd-41d2-b571-1ff061e61d2c"
           alt="캠퍼스메이트 시험 및 강의 보조 화면"
@@ -193,7 +193,7 @@ React와 TypeScript를 중심으로 웹 서비스를 개발해 왔으며,<br>
         <li>약 1년간 받은 피드백을 바탕으로 서비스 재설계</li>
       </ul>
       <p>
-        <a href="https://github.com/ohchanju3/LINENOW-CLIENT">
+        <a href="https://github.com/ckswn3/LINENOW-CLIENT">
           <strong>Repository</strong>
         </a>
       </p>
@@ -225,7 +225,7 @@ React와 TypeScript를 중심으로 웹 서비스를 개발해 왔으며,<br>
 - LP Dual Feedback을 활용한 후보 생성 정책 개선
 - 3개 항공사, 총 **119,023개 비행 구간** 대상 실험
 
-[**Research Repository**](https://github.com/ohchanju3/ASCP-2026)
+[**Research Repository**](https://github.com/ckswn3/ASCP-2026)
 
 <br>
 
@@ -248,7 +248,7 @@ React와 TypeScript를 중심으로 웹 서비스를 개발해 왔으며,<br>
 
 <p align="center">
   <strong>Building things people actually use.</strong><br><br>
-  <a href="https://github.com/ohchanju3">GitHub</a> ·
+  <a href="https://github.com/ckswn3">GitHub</a> ·
   <a href="https://velog.io/@ohchanju3/posts">Velog</a> ·
   <a href="mailto:ohchanju3@naver.com">Contact</a>
 </p>
