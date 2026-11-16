@@ -1,8 +1,11 @@
 
-<h1 align="left">오찬주 <sub>Oh Chanju</sub></h1>
+<!-- <h1 align="left">오찬주 <sub>Oh Chanju</sub></h1>
 
 <p><strong>Software Engineer · Frontend / Backend / AI</strong></p>
 
+ -->
+
+<h1 align="left">안녕하세요!</sub></h1>
 <p>
 사용자가 실제로 쓰는 서비스를 만들고, 그 과정에서 발견한 문제를 해결하는 개발자입니다.<br>
 React와 TypeScript를 중심으로 웹 서비스를 개발해 왔으며,<br>
